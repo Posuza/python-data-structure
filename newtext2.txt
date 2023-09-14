@@ -1,0 +1,4 @@
+{'u_email': '12', 'u_name': '12', 'u_pass': 12, 'u_phone': '12', 'u_age': '2'}
+{'u_email': '12', 'u_name': '12', 'u_pass': 12, 'u_phone': '12', 'u_age': '2'}
+{'u_email': '1', 'u_name': '12', 'u_pass': 12, 'u_phone': '12', 'u_age': '12'}
+{'u_email': '123', 'u_name': '13', 'u_pass': 13, 'u_phone': '13', 'u_age': '13'}

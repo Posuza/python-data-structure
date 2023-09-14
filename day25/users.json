@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "64d8f0475b5904788c1e45e1"
+  },
+  "name": "hi",
+  "phone": 10,
+  "email": "hhh@gmail.com",
+  "password": "123",
+  "cash": 10
+},
+{
+  "_id": {
+    "$oid": "64d8f1185b5904788c1e45e3"
+  },
+  "name": "her",
+  "phone": 10,
+  "email": "herh@gmail.com",
+  "password": "123",
+  "cash":10
+},
+{
+  "_id": {
+    "$oid": "64d8f1755b5904788c1e45e5"
+  },
+  "name": "he",
+  "phone": 10,
+  "email": "he@gmail.com",
+  "password": "123",
+  "cash": 10
+},
+{
+  "_id": {
+    "$oid": "64d8f1945b5904788c1e45e6"
+  },
+  "name": "ht",
+  "phone": 10,
+  "email": "ht@gmail.com",
+  "password": "123",
+  "cash": 10
+},
+{
+  "_id": {
+    "$oid": "64d8f1d75b5904788c1e45e7"
+  },
+  "name": "my",
+  "phone": 10,
+  "email": "hy@gmail.com",
+  "password": "123",
+  "cash": 10
+}]
